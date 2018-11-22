@@ -14,7 +14,7 @@ if N % 2 != 0:
 if N % 2 == 0 and N in range(2,5):
     print("Not Weird")
 
-if N % 2 == 0 and N in range(6,20):
+if N % 2 == 0 and N in range(6,21):
     print("Weird")
 
 if N % 2 == 0 and N > 20:
